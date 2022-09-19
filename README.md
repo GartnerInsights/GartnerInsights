@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GartnerInsights
 - 👀 I’m interested in keeping my profile active
-- 🌱 I’m currently learning that employers want an individual GitHub account. I've only had accounts within the companies I'm working for.
+- 🌱 I’m learning that employers want an individual GitHub account. I've had accounts within companies that I've worked for but not my own until Autodesk. This account includes an archived instance.
 - 💞️ I’m looking to collaborate on finding my next UX Writer or Technical Writer position.
 - 📫 How to reach me michelle@gartnerinsights.com
 
